@@ -46,4 +46,7 @@ The quality assessment of LLOD resources is not without challenges. The heteroge
 
 This notebook represents a step toward ensuring the reliability and usability of LLOD resources. Future work may involve expanding the scope of the quality assessment to include additional metrics, incorporating user feedback, and enhancing the automation of the quality monitoring process.
 
+## Persistent DOI on Zenodo
+The persistent version of this repository is available on Zenodo at https://zenodo.org/records/13449868.
+
 
